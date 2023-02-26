@@ -1,3 +1,4 @@
+![logo](https://github.com/Rafath5/Rafath5/blob/main/Screenshot%20(133).png)
 <h1 align="center">Hi 👋, I'm Rafath Umaimath</h1>
 <h3 align="center">A third-year CSE student pursuing computer engineering</h3>
  <img align="right" alt="coding" width=300 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
