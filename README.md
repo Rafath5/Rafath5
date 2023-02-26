@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafath Umaimath</h1>
 <h3 align="center">A third-year CSE student pursuing computer engineering</h3>
+<img align="right" alt="coding" width=400 src="https://imgs.search.brave.com/5AKwhXWkTPLQ4Wf4GOy3kyvWeCbOfSpJHtfe2HBsbFg/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5j/SVRHZ3ZFSEZ2eXZC/R20xVUtrcmFnSGFF/SyZwaWQ9QXBp">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafath5" alt="rafath5" /></a> </p>
 
