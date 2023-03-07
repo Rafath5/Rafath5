@@ -1,7 +1,7 @@
 ![logo](https://github.com/Rafath5/Rafath5/blob/main/Screenshot%20(133).png)
 <h1 align="center">Hi 👋, I'm Rafath Umaimath</h1>
 <h3 align="center">A third-year CSE student pursuing computer engineering</h3>
- <img align="right" alt="coding" width=250 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
+ <img align="right" alt="coding" width=350 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 <!-- <img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/327707310400038481/"> -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafath5" alt="rafath5" /></a> </p>
 
